@@ -1,7 +1,7 @@
 # 🛰️ TMP admin-detector
 
 ![Product Name](https://img.shields.io/badge/Product-admin--detector-EF4444?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.2-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.3-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)
 
 **admin-detector** is a lightweight utility designed for TruckersMP players. It monitors and alerts you in real-time when a staff member spawns within your rendering proximity.
